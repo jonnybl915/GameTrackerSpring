@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameTrackerSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/GameTrackerSpring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameTrackerSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameTrackerSpring_main.iml" group="GameTrackerSpring" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameTrackerSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GameTrackerSpring_test.iml" group="GameTrackerSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameTrackerSpring1.0.iml" filepath="$PROJECT_DIR$/.idea/modules/GameTrackerSpring1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameTrackerSpring1.0_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameTrackerSpring1.0_main.iml" group="GameTrackerSpring1.0" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameTrackerSpring1.0_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GameTrackerSpring1.0_test.iml" group="GameTrackerSpring1.0" />
     </modules>
   </component>
 </project>

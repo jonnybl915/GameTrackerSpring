@@ -19,6 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="GameTrackerSpring1.0_main" target="1.8" />
+      <module name="GameTrackerSpring1.0_test" target="1.8" />
       <module name="GameTrackerSpring_main" target="1.8" />
       <module name="GameTrackerSpring_test" target="1.8" />
     </bytecodeTargetLevel>
